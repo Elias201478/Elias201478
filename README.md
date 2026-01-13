@@ -7,7 +7,7 @@ i like/love testing malware 😄
 i do: c++ c#
 
 if you want to contact us or if you dont know how to do anything then you can...
-1. you can reach me or email me: Elias201478
+1. you can reach me or email me: Eliasalshami@outlook.com
 2. Pronous: he/him
 3. Gender: Male 🚻
 4. Malware Requests to do!
