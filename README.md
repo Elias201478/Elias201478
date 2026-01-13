@@ -4,7 +4,7 @@ i do Malwares Trojans Ransomwares.
 click any buttons to procee my channel.
 
 <a href="https://www.youtube.com/@PankozaTestingTrojans" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-MY YOUTUBE CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 
