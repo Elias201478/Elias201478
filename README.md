@@ -5,6 +5,7 @@ and i upload videos every saturday.
 i do Malwares Trojans Ransomwares.
 click any buttons to proceed my channel.
 i like/love testing malware 😄
+
 i do: c++ c#
 
 if you want to contact us or if you dont know how to do anything then you can...
