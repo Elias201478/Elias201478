@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header)
 
-# hello user.
 hello there. i do malware testing.
 and i upload videos every saturday.
 i do Malwares Trojans Ransomwares.
