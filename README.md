@@ -26,6 +26,10 @@ and also here is my states what i do in Main languages!
   <img src="https://img.shields.io/badge/YouTube-MY YOUTUBE CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&center=true&vCenter=true&width=800&lines=helloguys" alt="if you have anything that you need with on discord, call me! (:" />
+</p>
+
 
 
     
