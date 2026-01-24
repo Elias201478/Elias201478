@@ -1,3 +1,5 @@
+<img width="854" height="180" alt="image" src="https://github.com/user-attachments/assets/0beba956-bfe6-4d22-baaf-d048131c27f6" />
+
 # hello user.
 hello there. i do malware testing.
 and i upload videos every saturday.
@@ -18,6 +20,7 @@ if you want to visit my channel click the buttons!
 <a href="https://www.youtube.com/@PankozaTestingTrojans" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-MY YOUTUBE CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
+
 
 
     
