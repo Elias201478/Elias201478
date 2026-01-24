@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&center=true&vCenter=true&width=800&lines=hellouser." alt="rainbow hello user." />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=500&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&center=true&vCenter=true&width=800&lines=helloguys;helloguys;helloguys" alt="rainbow helloguys" /> </p>
 
 hello there. i do malware testing.
 and i upload videos every saturday.
