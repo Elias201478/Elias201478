@@ -1,17 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header)
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=40
-    &pause=300
-    &center=true
-    &vCenter=true
-    &width=900
-    &color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF
-    &lines=helloguys" />
-</p>
+<p align="center"> <svg width="600" height="120" viewBox="0 0 600 120"> <defs> <linearGradient id="rainbow" x1="0%" y1="0%" x2="200%" y2="0%"> <stop offset="0%" stop-color="#ff0040" /> <stop offset="16%" stop-color="#ff8000" /> <stop offset="32%" stop-color="#ffff00" /> <stop offset="48%" stop-color="#00ff00" /> <stop offset="64%" stop-color="#00ffff" /> <stop offset="80%" stop-color="#0080ff" /> <stop offset="100%" stop-color="#ff00ff" /> </linearGradient> <mask id="typing-mask"> <rect x="0" y="0" width="0" height="120" fill="white"> <animate attributeName="width" from="0" to="600" dur="3s" repeatCount="indefinite" keyTimes="0;0.7;1" values="0;600;600" calcMode="linear" /> </rect> </mask> </defs> <style> .rainbow-text { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 48px; font-weight: 700; fill: url(#rainbow); } @keyframes hue-shift { 0% { filter: hue-rotate(0deg); } 100% { filter: hue-rotate(360deg); } } .rainbow-group { animation: hue-shift 4s linear infinite; } </style> <g class="rainbow-group" mask="url(#typing-mask)"> <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="rainbow-text"> hello user.
 
 
 hello there. i do malware testing.
