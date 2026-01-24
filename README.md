@@ -1,6 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header)
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=300&center=true&vCenter=true&width=900&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&lines=hello user." /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=40
+    &pause=300
+    &center=true
+    &vCenter=true
+    &width=900
+    &color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF
+    &lines=helloguys" />
+</p>
+
 
 hello there. i do malware testing.
 and i upload videos every saturday.
