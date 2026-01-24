@@ -14,11 +14,12 @@ if you want to contact us or if you dont know how to do anything then you can...
 4. Malware Requests to do!
 5. i live form united states!
 
-if you want to visit my channel click the buttons!
+if you want to visit my channel or join my discord, click the buttons!
 also most used 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias201478&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
 
+[![Join My Discord](https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z8FdZ85d)
 
 <a href="https://www.youtube.com/@PankozaTestingTrojans" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-MY YOUTUBE CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
