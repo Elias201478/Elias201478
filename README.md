@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header)
 
 # hello user.
 hello there. i do malware testing.
@@ -15,7 +16,7 @@ if you want to contact us or if you dont know how to do anything then you can...
 5. i live form united states!
 
 if you want to visit my channel or join my discord, click the buttons!
-also most used 
+and also here is my states what i do in Main languages!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias201478&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
 
