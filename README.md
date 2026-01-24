@@ -1,57 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header)
 
-<div align="center">
-
-<style>
-@keyframes rainbow {
-  0%   { color: #ff0000; }
-  16%  { color: #ff7f00; }
-  33%  { color: #ffff00; }
-  50%  { color: #00ff00; }
-  66%  { color: #0000ff; }
-  83%  { color: #4b0082; }
-  100% { color: #8f00ff; }
-}
-
-#hello {
-  font-size: 42px;
-  font-weight: bold;
-  font-family: monospace;
-  animation: rainbow 2s linear infinite;
-  white-space: nowrap;
-  border-right: 3px solid #fff;
-  width: fit-content;
-  margin: auto;
-  overflow: hidden;
-}
-</style>
-
-<div id="hello"></div>
-
-<script>
-const text = "hello user.";
-let i = 0;
-const speed = 120;
-
-function typeLoop() {
-  if (i <= text.length) {
-    document.getElementById("hello").textContent = text.substring(0, i);
-    i++;
-    setTimeout(typeLoop, speed);
-  } else {
-    setTimeout(() => {
-      i = 0;
-      typeLoop();
-    }, 1000);
-  }
-}
-
-typeLoop();
-</script>
-
-</div>
-
-
 hello there. i do malware testing.
 and i upload videos every saturday.
 i do Malwares Trojans Ransomwares.
