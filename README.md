@@ -1,4 +1,51 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header)
+![plasma header](plasma.svg)
+<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="plasma1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ff00"/>
+      <stop offset="60%" stop-color="#004400"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <radialGradient id="plasma2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffff"/>
+      <stop offset="60%" stop-color="#003344"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <radialGradient id="plasma3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffff00"/>
+      <stop offset="60%" stop-color="#444400"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="25"/>
+      <feColorMatrix type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.9 0"/>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#000000"/>
+
+  <g filter="url(#soft)">
+    <circle id="ball1" cx="150" cy="90" r="120" fill="url(#plasma1)">
+      <animate attributeName="cx" values="100;700;100" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="60;120;60" dur="9s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle id="ball2" cx="400" cy="90" r="130" fill="url(#plasma2)">
+      <animate attributeName="cx" values="700;100;700" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="120;60;120" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle id="ball3" cx="650" cy="90" r="110" fill="url(#plasma3)">
+      <animate attributeName="cx" values="400;200;600;400" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="40;140;80;40" dur="13s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
+
 
 hello there. i do malware testing.
 and i upload videos every saturday.
