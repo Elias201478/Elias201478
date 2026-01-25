@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header"/>
 
 hello there. i do malware testing.
 and i upload videos every saturday.
