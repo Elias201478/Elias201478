@@ -1,4 +1,10 @@
-![Green clouds header](https://capsule-render.vercel.app/api?type=wave&color=0:003300,50:00aa55,100:00ff99&height=180&section=header&text=Elias%20-%20Green%20Clouds&fontColor=ffffff&fontSize=40)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/master/assets/typing.svg?text=hello%20user." width="600">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:003300,50:00aa55,100:00ff99&height=200&section=header&reversal=true&animation=twinkling">
+</p>
 
 hello there. i do malware testing.
 and i upload videos every saturday.
