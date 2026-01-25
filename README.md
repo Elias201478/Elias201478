@@ -1,3 +1,84 @@
+<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <!-- Waving shape identical to capsule-render type=waving -->
+    <clipPath id="wave">
+      <path d="
+        M0,40
+        Q200,0 400,40
+        T800,40
+        L800,180
+        L0,180
+        Z" />
+    </clipPath>
+
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#001900"/>
+      <stop offset="100%" stop-color="#003d00"/>
+    </linearGradient>
+
+    <!-- Cloud gradient -->
+    <radialGradient id="cloud" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#66ff99" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#001900" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Cloud shape -->
+    <g id="c">
+      <circle cx="0" cy="0" r="55" fill="url(#cloud)"/>
+      <circle cx="40" cy="-10" r="45" fill="url(#cloud)"/>
+      <circle cx="-40" cy="-10" r="45" fill="url(#cloud)"/>
+      <circle cx="10" cy="25" r="40" fill="url(#cloud)"/>
+      <circle cx="-25" cy="25" r="35" fill="url(#cloud)"/>
+    </g>
+
+    <!-- Grain overlay -->
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2"/>
+      <feColorMatrix type="matrix" values="
+        0 0 0 0 0
+        0 0 0 0 1
+        0 0 0 0 0
+        0 0 0 0.25 0"/>
+      <feBlend mode="soft-light" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#wave)">
+    <!-- Background -->
+    <rect width="800" height="180" fill="url(#bg)"/>
+
+    <!-- Cloud layers -->
+    <g opacity="0.9">
+      <use href="#c" x="0" y="80">
+        <animateTransform attributeName="transform" type="translate"
+          from="-250 0" to="1050 0" dur="32s" repeatCount="indefinite"/>
+      </use>
+      <use href="#c" x="300" y="50">
+        <animateTransform attributeName="transform" type="translate"
+          from="-250 0" to="1050 0" dur="44s" repeatCount="indefinite"/>
+      </use>
+      <use href="#c" x="600" y="95">
+        <animateTransform attributeName="transform" type="translate"
+          from="-250 0" to="1050 0" dur="52s" repeatCount="indefinite"/>
+      </use>
+    </g>
+
+    <g opacity="0.7">
+      <use href="#c" x="150" y="110">
+        <animateTransform attributeName="transform" type="translate"
+          from="1050 0" to="-250 0" dur="58s" repeatCount="indefinite"/>
+      </use>
+      <use href="#c" x="450" y="65">
+        <animateTransform attributeName="transform" type="translate"
+          from="1050 0" to="-250 0" dur="38s" repeatCount="indefinite"/>
+      </use>
+    </g>
+
+    <!-- Grain -->
+    <rect width="800" height="180" filter="url(#grain)" opacity="0.35"/>
+  </g>
+</svg>
 <p align="center">
   <img src="./green-clouds-waving.svg" />
 </p>
