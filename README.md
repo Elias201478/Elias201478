@@ -1,9 +1,4 @@
-https://capsule-render.vercel.app/api?
-type=wave
-&color=0:00ff00,50:00ffff,100:ff00ff
-&height=180
-&section=header
-&animation=twinkling
+![Green clouds header](https://capsule-render.vercel.app/api?type=wave&color=0:003300,50:00aa55,100:00ff99&height=180&section=header&text=Elias%20-%20Green%20Clouds&fontColor=ffffff&fontSize=40)
 
 hello there. i do malware testing.
 and i upload videos every saturday.
