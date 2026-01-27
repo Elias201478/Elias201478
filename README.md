@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1800&pause=300&color=00FF7F&center=true&vCenter=true&width=800&lines=Elias+%E2%80%A2+demoscene+alchemist;XOR+fractals+%E2%80%A2+rainbow+text;Bootsector+noise+%E2%80%A2+green+clouds)](https://git.io/typing-svg)
 
 hello there. i do malware testing.
 and i upload videos every saturday.
