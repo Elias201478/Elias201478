@@ -24,15 +24,9 @@ and also here is my states what i do in Main languages!
 [![Join My Discord](https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z8FdZ85d)
 
 <a href="https://www.youtube.com/@PankozaTestingTrojans" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-MY YOUTUBE CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  
-<p align="center">
-  <a href="https://www.reddit.com/user/Lower-Contest4734/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Join%20my%20Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" 
-      alt="Reddit" 
-    />
+  <img src="https://img.shields.io/badge/YouTube-MY YOUTUBE CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
 
+<img src="https://camo.githubusercontent.com/04fcf841c56021b2aad0d62e0745e0cf2103939706bfb761be3910a846163db8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265646469742d4646343530303f7374796c653d666f722d7468652d6261646765266c6f676f3d726564646974266c6f676f436f6c6f723d7768697465"/>
 
 
 
