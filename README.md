@@ -24,7 +24,15 @@ and also here is my states what i do in Main languages!
 [![Join My Discord](https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z8FdZ85d)
 
 <a href="https://www.youtube.com/@PankozaTestingTrojans" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-MY YOUTUBE CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-MY YOUTUBE CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> <p align="center">
+  <a href="https://www.reddit.com/user/Lower-Contest4734/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Join%20my%20Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" 
+      alt="Reddit" 
+    />
+  </a>
+</p>
+
 
 
 
