@@ -25,6 +25,7 @@ and also here is my states what i do in Main languages!
 
 <a href="https://www.youtube.com/@PankozaTestingTrojans" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-MY YOUTUBE CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  
 <p align="center">
   <a href="https://www.reddit.com/user/Lower-Contest4734/" target="_blank">
     <img 
