@@ -32,8 +32,6 @@ and also here is my states what i do in Main languages!
       src="https://img.shields.io/badge/Join%20my%20Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" 
       alt="Reddit" 
     />
-  </a>
-</p>
 
 
 
