@@ -15,6 +15,7 @@ if you want to contact us or if you dont know how to do anything then you can...
 3. Gender: Male 🚻
 4. Malware Requests to do!
 5. i live form united states!
+6. i can speak arabic. 🇦🇪
 
 if you want to visit my channel or join my discord, click the buttons!
 and also here is my states what i do in Main languages!
