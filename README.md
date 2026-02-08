@@ -26,6 +26,8 @@ Arabic: إذا كنت تريد زيارة قناتي أو الانضمام إل�
 ![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://camo.githubusercontent.com/921d1cbbdc72e0bd1e213d528412040a7bacb888138e14f5105d5c3d4b2cb4a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
 
+# My Channel / profiles
+
 [![Join My Discord](https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z8FdZ85d) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lower-Contest4734/)
 
 
