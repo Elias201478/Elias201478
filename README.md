@@ -7,7 +7,7 @@ i do Malwares Trojans Ransomwares.
 click any buttons to proceed my channel.
 i like/love testing malware 😄
 
-i do: c++ c#
+i do: C++ or C and C#
 
 if you want to contact us or if you dont know how to do anything then you can...
 1. you can reach me or give any questions to talk: malwaretestingtrojans
