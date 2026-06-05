@@ -28,7 +28,7 @@ Arabic: إذا كنت تريد زيارة قناتي أو الانضمام إل�
 
 # My Channel / profiles / Discord Server
 
-[![Join My Discord](https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CkfPFKEkfe) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lower-Contest4734/)
+[![Join My Discord](https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ex6BRmUCed) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lower-Contest4734/)
 
 
 
